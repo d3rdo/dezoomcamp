@@ -1,0 +1,6 @@
+first-module/ny_taxi_postgres_data
+first-module/.ipynb_checkpoints
+first-module/taxi_zone_lookup.csv
+first-module/yellow_tripdata_2021-01.csv
+*.csv
+
